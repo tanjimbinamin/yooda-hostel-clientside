@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.admin-area {
+    background: rgb(41, 45, 71);
+    color: white;
+    height: 100vh;
+  }
+  .admin-container {
+    overflow-x: hidden;
+  }
+  .admin-menu {
+    list-style: none;
+    cursor: pointer;
+  }
+  .admin-menu:hover {
+    color: rgb(6, 6, 7);
+  }
